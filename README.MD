@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,Tarun here</h1>
-<h3 align="center">A passionate & motivated Flutter developer. As a competitive programmer, I have honed my problem-solving skills. I possess a diverse range of technical expertise, spanning software and app development, as well as cybersecurity. I am proficient in multiple programming languages, and have strong grasp of OOPS, database systems, operating systems, and computer networks.</h3>
+<h3 align="center">A passionate & motivated Flutter developer. As a competitive programmer, I have honed my problem-solving skills and am able to tackle complex challenges with ease. I possess a diverse range of technical expertise, spanning software and application development. I am proficient in multiple programming languages as CPP, Java & Python, and have strong grasp of Object-Oriented Programming, database systems, operating systems, and computer networks. I am passionate about software development and take great interest in up solving and building softwares.</h3>
 
 - 🤝 I’m looking for help with **Data analytics and Data science**
 
